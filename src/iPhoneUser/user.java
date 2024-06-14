@@ -60,7 +60,7 @@ public class user {
                 break;
 
             default:
-                System.out.println("Opção inválida. Nosso time de desenvolvedores está trabalhando nisso.");
+                System.out.println("Opção inválida. Nossos desenvolvedores estão trabalhando nisso.");
                 break;
             }
         }
